@@ -12,4 +12,4 @@
     ``` pytest test_app.py ```
 2. run coverage test
     ``` pytest --cov=auth --cov=models --cov-report=term-missing test_app.py ```
-    ![Test coverage](https://github.com/danangwijaya750/mini-flask-be/images/image.png)
+    ![Test coverage](https://github.com/danangwijaya750/mini-flask-be/blob/master/images/image.png)
